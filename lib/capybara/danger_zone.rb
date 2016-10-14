@@ -1,4 +1,6 @@
 require 'capybara'
+require 'capybara/danger_zone/highway'
+require 'capybara/danger_zone/wait'
 require 'capybara/danger_zone/version'
 
 module Capybara
