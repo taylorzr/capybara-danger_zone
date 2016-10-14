@@ -1,4 +1,4 @@
-require "capybara/danger_zone/version"
+require 'capybara/danger_zone/version'
 
 module Capybara
   module DangerZone
